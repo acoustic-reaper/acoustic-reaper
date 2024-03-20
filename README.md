@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Engineering via B.Tech IIT Roorkee.
 - 👯 I’m looking to collaborate on Competitive Programming and Machine learning.
 - 💬 Ask me about ...
-- 📫 How to reach me: Mail: manizamimitacs@gmail.com
+- 📫 How to reach me: Mail: mohd.alauddin.nizami@gmail.com
